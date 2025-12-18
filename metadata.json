@@ -1,0 +1,19 @@
+{
+    "tables": {
+        "retail_patterns": {
+            "columns": {
+                "Quantity": {
+                    "sdtype": "numerical"
+                },
+                "Price": {
+                    "sdtype": "numerical"
+                },
+                "Country": {
+                    "sdtype": "categorical"
+                }
+            }
+        }
+    },
+    "relationships": [],
+    "METADATA_SPEC_VERSION": "V1"
+}
