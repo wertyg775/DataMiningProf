@@ -1,0 +1,6 @@
+kagglehub==0.3.13
+numpy==2.4.0
+pandas==2.3.3
+protobuf==6.33.2
+python-dotenv==1.2.1
+sdv==1.31.0
