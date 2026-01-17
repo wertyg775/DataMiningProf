@@ -1,9 +1,9 @@
-kagglehub==0.3.13
-numpy==2.4.0
-pandas==2.3.3
-protobuf==6.33.2
-python-dotenv==1.2.1
-sdv==1.31.0
+kagglehub>=0.3.13
+numpy>=1.26.0
+pandas>=2.2.0
+protobuf>=5.29.3
+python-dotenv>=1.0.0
+sdv>=1.18.0
 scikit-learn
 matplotlib
 seaborn
