@@ -8,3 +8,4 @@ scikit-learn
 matplotlib
 seaborn
 xgboost
+google-generativeai>=0.8.0
